@@ -1,10 +1,9 @@
 
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/terdong?template=classic&languages=1&followup=1&config.timezone=Asia%2FSeoul&config.animated=true)
-
- 
 <!--
+
+![Metrics](https://metrics.lecoq.io/terdong?template=classic&languages=1&followup=1&config.timezone=Asia%2FSeoul&config.animated=true)
 
 **terdong/terdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
